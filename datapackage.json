@@ -1,0 +1,14 @@
+{
+    "name": "ddf--ihme--global_burden_disease_death_rate",
+    "author": "Gapminder",
+    "description": "Death Rate per country",
+    "language": {
+        "name": "English",
+        "id": "en"
+    },
+    "translations": [],
+    "license": "CC-BY-4.0",
+    "title": "ddf--ihme--global_burden_disease_death_rate",
+    "version": "0.0.1",
+    "resources": []
+}
